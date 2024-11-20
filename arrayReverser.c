@@ -17,3 +17,4 @@ void main(){
     int arr[4] = {1,2,3,4};
     arrayReverser(arr,size);
 };
+//this algorithm's time complexity is O(n) 

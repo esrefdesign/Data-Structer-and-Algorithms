@@ -38,3 +38,5 @@ void main(){
     printf("biggest number of array: %d\n",foundBiggest(arr,size));
     printf("biggest number of array: %d",foundSmallest(arr,size));
 }
+
+//these algorithm's time complexity is O(n) because it has to check every element in the array once.
